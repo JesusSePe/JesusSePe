@@ -10,7 +10,7 @@
 <h3>Back-end technologies and frameworks</h3>
 <div style=" display: flex; width: 100%; justify-content: space-evenly; align-content: center ">
     <!--PHP-->
-    <div width="9em" background-color="yellow">
+    <div style="width: 9em;">
         <div style="display:flex; flex-direction: column; gap: 1em; align-items: center; justify-content: center; background-color: rgba(96,165,250, 1); border-radius: 10px; box-shadow: 0px 0px 5px -3px black; color: black; padding-top: 2em;">
             <img style="background: transparent; height: 7em" src="./assets/icons/php.svg">
             <span class="text-center" style="height: 80px;">PHP</span>
