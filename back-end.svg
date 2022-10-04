@@ -25,7 +25,7 @@
             <div class="wrapper">
                 <div style="width: 9em;">
                     <div class="card" style="background-color: rgba(96,165,250, 1);">
-                        <img style="background: transparent; height: 7em;" src="https://raw.githubusercontent.com/JesusSePe/JesusSePe/main/assets/icons/php.svg"/>
+                        <img style="background: transparent; height: 7em;" src="https://github.com/JesusSePe/JesusSePe/blame/main/assets/icons/php.svg"/>
                         <span class="text-center" style="height: 80px;">PHP</span>
                     </div>
                 </div>
