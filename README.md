@@ -9,7 +9,7 @@
 <hr>
 <h3>Back-end technologies and frameworks</h3>
 <div>
-    <a href="https://github.com/JesusSePe/JesusSePe/blob/main/back-end.svg">
+    <a href="https://github.com/JesusSePe/JesusSePe/blame/main/back-end.svg">
         <img src="./back-end.svg" width="800" height="400" alt="Back-end technologies">
     </a>
 </div>
