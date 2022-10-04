@@ -9,7 +9,7 @@
 <hr style="height: 1px; background-color:turquoise">
 <h3>Back-end technologies and frameworks</h3>
 
-<img src="./assets/sections/back-end.svg" width="800" height="400" >
+<img src="./assets/sections/back-end.svg" width="800" height="400" alt="">
 
 
 
