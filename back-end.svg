@@ -26,21 +26,21 @@
                 <!--PHP-->
                 <div style="width: 9em;">
                     <div class="card" style="background-color: rgba(96,165,250, 1);">
-                        <img style="background: transparent; height: 7em" src="../icons/php.svg">
+                        <img style="background: transparent; height: 7em;" src="./assets/icons/php.svg">
                         <span class="text-center" style="height: 80px;">PHP</span>
                     </div>
                 </div>
                 <!--Laravel-->
                 <div style="width: 9em;">
                     <div class="card" style="background-color: rgba(254,202,202, 1);">
-                        <img style="background: transparent; height: 7em" src="../icons/laravel.svg">
+                        <img style="background: transparent; height: 7em" src="./assets/icons/laravel.svg">
                         <span class="text-center" style="height: 80px;">Laravel</span>
                     </div>
                 </div>
                 <!--CodeIgniter-->
                 <div style="width: 9em;">
                     <div class="card" style="background-color: rgba(254,202,202, 1);">
-                        <img style="background: transparent; height: 7em" src="../icons/codeigniter.svg">
+                        <img style="background: transparent; height: 7em" src="./assets/icons/codeigniter.svg">
                         <span class="text-center" style="height: 80px;">CodeIgniter</span>
                     </div>
                 </div>
