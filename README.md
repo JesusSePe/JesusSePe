@@ -1,5 +1,5 @@
-<center><h1>Hi, TelekSuros here! 👋</h1></center>
-<center><h3>Full stack developer</h3></center>
+<h1 align="center">Hi, TelekSuros here! 👋</h1>
+<h3 align="center">Full stack developer</h3>
 <div style="height: 3em"></div>
 <ul>
     <li>🔭 I’m currently looking for a new job, and recently started a new project with some friends, more news soon <sup>TM</sup></li>
