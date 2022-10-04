@@ -10,7 +10,7 @@
 <h3>Back-end technologies and frameworks</h3>
 <div>
     <a href="#">
-        <img src="./back-end.svg" width="800" height="400" alt="Back-end technologies">
+        <img src="./header.svg" width="800" height="400" alt="Back-end technologies">
     </a>
 </div>
 
