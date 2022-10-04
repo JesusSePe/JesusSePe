@@ -1,17 +1,16 @@
-<div align="center">
+<div>
+	<h1 id="title" align="center">Hi, TelekSuros here! 👋</h1>
+	<ul id="about">
+		<li>🏫 I am a full stack developer who did study Web App Development and Multiplatform App Development, you can find some of my school projects here.</li>
+		<li>🔭 I’m currently looking for a new job, and recently started a new project with some friends, more news soon <sup>TM</sup></li>
+		<li>🌱 I’m currently learning <strong>Angular</strong></li>
+		<li>📫 You can reach me at <strong><a href="mailto:someone@example.com">jesusserpe@gmail.com</a><strong></li>
+	</ul>
 	<br>
-	<a href="https://github.com/JesusSePe/JesusSePe/blame/main/back-end.svg">
-		<img src="back-end.svg" width="800" height="400" alt="Back-end technologies">
+	<h3 id="back">Back-end languages and Frameworks I have experience with</h3>
+	<a  align="center" href="https://github.com/JesusSePe/JesusSePe/blame/main/back-end.svg">
+		<img src="back-end.svg" width="100%" height="550" alt="Back-end technologies">
 	</a>
 	<br>
+	<h3 id="dbs">Databases I have experience with</h3>
 </div>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-Explanation: https://css-tricks.com/custom-styles-in-github-readmes/
