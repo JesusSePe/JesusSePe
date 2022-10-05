@@ -14,17 +14,17 @@
 	<br>
 	<h3 id="dbs">Databases I have experience with</h3>
 	<a  align="center" href="https://github.com/JesusSePe/JesusSePe/blame/main/DBs.svg">
-		<img src="DBs.svg" width="100%" height="300px" alt="Back-end technologies">
+		<img src="DBs.svg" width="100%" height="300px" alt="Databases">
 	</a>
 	<br>
 	<h3 id="ui-libs">UI libraries / frameworks I have experience with</h3>
 	<a  align="center" href="https://github.com/JesusSePe/JesusSePe/blame/main/UI.svg">
-		<img src="UI.svg" width="100%" height="300px" alt="Back-end technologies">
+		<img src="UI.svg" width="100%" height="300px" alt="UI Libraries">
 	</a>
 	<br>
 	<h3 id="front">Front-end technologies I have experience with</h3>
-	<a  align="center" href="https://github.com/JesusSePe/JesusSePe/blame/main/UI.svg">
-		<img src="UI.svg" width="100%" height="550px" alt="Back-end technologies">
+	<a  align="center" href="https://github.com/JesusSePe/JesusSePe/blame/main/front-end.svg">
+		<img src="front-end.svg" width="100%" height="600px" alt="Front-end technologies">
 	</a>
 	<br>
 </div>
