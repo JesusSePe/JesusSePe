@@ -9,7 +9,7 @@
 	<br>
 	<h3 id="back">Back-end languages and Frameworks I have experience with</h3>
 	<a  align="center" href="https://github.com/JesusSePe/JesusSePe/blame/main/back-end.svg">
-		<img src="back-end.svg" width="100%" height="550" alt="Back-end technologies">
+		<img src="back-end.svg" width="100%" height="550px" alt="Back-end technologies">
 	</a>
 	<br>
 	<h3 id="dbs">Databases I have experience with</h3>
