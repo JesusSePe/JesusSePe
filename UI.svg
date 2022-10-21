@@ -62,7 +62,7 @@
                     .wrapper {
                         gap: 0; 
                         heigh: 600px;
-                        padding: 150px 0;
+                        padding: 25px 0;
                     }
                 }
 
