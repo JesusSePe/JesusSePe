@@ -8,10 +8,13 @@
                 .wrapper {
                     display: flex; 
                     width: 100%;
+                    max-width: 750px;
                     justify-content: space-evenly; 
                     align-content: center;
                     flex-wrap: wrap;
-                    gap: 1em; 
+                    gap: 2em 4em;
+                    heigh: 600px;
+                    padding: 50px 0;
                 }
 
                 .card {
@@ -37,9 +40,9 @@
                     width: 105px
                 }
 
-                @media screen and (max-width: 500px) {
+                @media screen and (max-width: 575px) {
                     .wrapper {
-                        gap: 2em; 
+                        gap: 2em 4em; 
                         heigh: 600px;
                         padding: 75px 0;
                     }
@@ -54,14 +57,6 @@
                     .card-icon {
                         height: 50px;
                         width: 50px;
-                    }
-                }
-
-                @media screen and (min-width: 750px) {
-                    .wrapper {
-                        gap: 0; 
-                        heigh: 600px;
-                        padding: 50px 0;
                     }
                 }
 
